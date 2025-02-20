@@ -17,7 +17,7 @@ variable "snapshot_name" {
 variable "project_id" {
   description = "GCP Project ID"
   type        = string
-  default     = "gcp-cloud-run-tests"
+  default     = "your-gcp-project-name"
 }
 
 # Provider
